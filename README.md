@@ -1,10 +1,11 @@
-### Hi there 👋
+# Hello World 👋
 
-## Welcome to my Github profile!
+## Welcome to the Github profile of Hubert Bukowski 
 
-# I'm Hubert Bukowski
+<a href="https://www.linkedin.com/in/hubert-bukowski280/">Linkedin</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hubo00&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img align='left' height="180em" src="https://github-readme-stats.vercel.app/api?username=hubo00&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img alight='right' height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hubo00">
 
 <!--
 Here are some ideas to get you started:
