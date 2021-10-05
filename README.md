@@ -5,6 +5,7 @@
 ![](https://img.shields.io/badge/Language-Python-success?style=flat-square&logo=python&logoColor=success)
 ![](https://img.shields.io/badge/Language-Java-success?style=flat-square&logo=java&logoColor=success)
 ![](https://img.shields.io/badge/Language-JavaScript-success?style=flat-square&logo=javascript&logoColor=success)
+![](https://img.shields.io/badge/Language-C++-success?style=flat-square&logo=cplusplus&logoColor=success)
 ![](https://img.shields.io/badge/Web-HTML-informational?style=flat-square&logo=html5&logoColor=informational)
 ![](https://img.shields.io/badge/Web-CSS-informational?style=flat-square&logo=css3&logoColor=informational)
 ![](https://img.shields.io/badge/Web-Django-informational?style=flat-square&logo=django&logoColor=informational)
