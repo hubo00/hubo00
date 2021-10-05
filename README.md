@@ -14,7 +14,7 @@
 
 I am a 21 year old college student, studying for a BSc in computing, with Software Development as a Major. I attend the Technological University of Dublin.
 - 🌱 I’m currently learning:
-|        C++
+         C++
 |        Node.js + Express
 - 😄 Pronouns: He/Him
 
